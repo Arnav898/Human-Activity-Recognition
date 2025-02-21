@@ -1,6 +1,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/react
 # Edit at https://www.toptal.com/developers/gitignore?templates=react
 
+bajaj-backend/node_modules/
+bajaj-backend/.env
+bajaj-client/node_modules/
+bajaj-client/.env
 ### react ###
 .DS_*
 *.log
